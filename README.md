@@ -35,15 +35,15 @@ A demo of the app can be found at https://drive.google.com/file/d/1Q3Q3Q8Z3Z3Z3Z
 
 ### Login Page
 
-![Screenshot 1](./screenshots/login.png)
+![Screenshot 1](/screenshots/login.png)
 
 ### Registration Page
 
-![Screenshot 2](./screenshots/register.png)
+![Screenshot 2](/screenshots/register.png)
 
 ### Video Chat
 
-![Screenshot 3](./screenshots/video.jpg)
+![Screenshot 3](/screenshots/video.jpg)
 
 ## Contributing
 
